@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kmrvaibhavrai
-- 👀 I’m interested in android app development also ML and data science
-- 🌱 I’m currently learning machine learning technologies and data science technologies
+- 👀 I’m intrested in web developement techonologies
+- 🌱 I’m currently learning docker containers and how make containers for my applications.
+- I work as a full stack developer and my expertise lies in MEAN/MERN stack
 - 📫 you can contact me on my gmail - kmrvaibhavrai@gmail.com or my mobile number - +91 8874103438
 
 <!---
